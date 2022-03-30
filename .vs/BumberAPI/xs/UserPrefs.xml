@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{32D8073F-5B31-4016-8B73-B93B6376D3A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/UsersContext.cs">
+    <Files>
+      <File FileName="Controllers/UserInfoController.cs" Line="96" Column="17" />
+      <File FileName="Models/URLs.cs" Line="24" Column="54" />
+      <File FileName="Models/ImagesDatabase.cs" Line="15" Column="25" />
+      <File FileName="Models/RequestsDatabase.cs" Line="52" Column="54" />
+      <File FileName="Models/Request.cs" Line="13" Column="34" />
+      <File FileName="Models/User.cs" Line="23" Column="34" />
+      <File FileName="Program.cs" Line="12" Column="47" />
+      <File FileName="Models/Image.cs" Line="11" Column="30" />
+      <File FileName="Controllers/FriendsController.cs" Line="297" Column="110" />
+      <File FileName="Controllers/AuthController.cs" Line="1" Column="1" />
+      <File FileName="Models/DatabaseSettings.cs" Line="1" Column="1" />
+      <File FileName="Models/JsonModelBinder.cs" Line="1" Column="1" />
+      <File FileName="Models/Security.cs" Line="1" Column="1" />
+      <File FileName="Models/UserDatabase.cs" Line="1" Column="1" />
+      <File FileName="Models/UsersContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BumberAPI" expanded="True">
+            <Node name="BumberAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BumberAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.NXEDU19830002422" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
